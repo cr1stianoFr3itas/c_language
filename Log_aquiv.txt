@@ -1,0 +1,73 @@
+24_05_21 : Menu exit : comando dado atrasves da letra "A" para sair do programa
+	
+	 
+	
+	ano mês dia hora minuto segundo	
+	21 05 25 17 43 26
+
+***************************************************************
+
+24_05_21 : Menu indentificação : comando dado atrasves da letra "B" para inciar
+processo de indentificação
+	
+	 
+	ano mês dia hora minuto segundo	
+	21 05 25 17 43 26
+
+***************************************************************
+
+24_05_21 : Menu conjunto de calculos : comando dado atrasves da letra "C" para inciar
+processo de calculos com 2 variaveis inteiras
+	
+	 
+	ano mês dia hora minuto segundo	
+	21 05 25 17 43 26
+
+***************************************************************
+
+24_05_21 : Menu F/C: comando dado atrasves da letra "D" para inciar
+processo conversão de um numero em FAHRENHEIT convertedo para CELSIUS
+imprimindo o valor em DOUBLE e em INTEGER
+	
+	 
+	ano mês dia hora minuto segundo	
+	21 05 25 17 43 26
+
+***************************************************************
+
+24_05_21 : Menu fatorial : comando dado atrasves da letra "E" para inciar
+processo de fatorar um valor inteiro
+	
+	 
+	ano mês dia hora minuto segundo	
+	21 05 25 17 43 26
+
+***************************************************************
+
+24_05_21 : Menu Array : comando dado atrasves da letra "F" para inciar
+processo de calculos de 10 numeros da inseridos em CHAR  para serconvertidos 
+em INTEGER resultando na impressao da soma de todos os "numeros" inseridos.
+(em teste de melhoria do codigo)
+	
+	 
+	ano mês dia hora minuto segundo	
+	21 05 25 17 43 26
+
+***************************************************************
+
+24_05_21 : Menu tabuada : comando dado atrasves da letra "G" para inciar
+processo da tabuada de multiplicação ao final o fopen é acionado direcionando
+um arquivo .txt onde a tabela surgida no comando será copiada e inserida
+	
+	 
+	ano mês dia hora minuto segundo	
+	21 05 25 17 43 26
+
+***************************************************************
+
+24_05_21 : Menu calculos LINHAS E COLUNAS : comando dado atrasves da letra "H" para inciar
+
+	
+	 
+	ano mês dia hora minuto segundo	
+	21 05 25 17 43 26
