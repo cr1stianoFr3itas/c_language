@@ -1,3 +1,11 @@
+/*
+   Dev. Cristiano Freitas
+   email: junior.brown.eda@gmail.com
+   Data de inicio do projeto: 20/05/2021
+   Data de "Final" do projeto: 26/05/2021
+*/
+
+
 #include "funcoes.h"
 #define AUX 5
 
